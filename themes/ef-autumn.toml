@@ -1,7 +1,7 @@
 [colors]
 background = '#0f0e06'
 foreground = '#cfbcba'
-selection-background = '#3f1020'
+selection-background = '#3f1324'
 selection-foreground = '#cfbcba'
 cursor = '#ffaa33'
 black = '#26211d'
